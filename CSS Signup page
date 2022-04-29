@@ -1,0 +1,54 @@
+form{height: 625px;
+    width: 550px;
+    border: solid blue;
+    text-align: center;
+    
+
+}
+.in2{
+    padding: 10px;
+    margin: 10px;
+    font-size: large;
+    background-color: lightseagreen;
+    color: white;
+
+}
+.in1{
+    padding: 10px;
+    margin: 10px;
+    font-size: large;
+    background-color: deeppink;
+    color: white;
+}
+form{
+     font-family:cursive ;
+      size: 20px;
+      background-color:white;
+      color:blue;
+      opacity: 90%;
+      border-radius: 20%;
+
+}
+h1{
+    color:red ;
+    font-style: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h2{
+    color:green;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+input{
+    color:brown;
+    border:outset darkgreen;
+    
+    
+
+}
+::placeholder{
+    color: lightseagreen;
+}
+
+
