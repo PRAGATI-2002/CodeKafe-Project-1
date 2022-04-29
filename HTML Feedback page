@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="feedback.css" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback </title>
+</head>
+<style>
+    body{
+        background-image: url("https://images.unsplash.com/photo-1603302576837-37561b2e2302?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGNvZGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60");
+        background-repeat: no-repeat;
+        background-size: cover;
+
+    }
+</style>
+<body><center>
+    <form>
+        <h1>
+            GET IN TOUCH<span>:)</span>
+        </h1>
+        <br>
+        <label for="name">NAME</label>
+    <input type="text" id="name" placeholder="Write your name">
+    <br>
+    <br>
+    <label for="email">EMAIL</label>
+    <input type="email" id="email" placeholder="write your email">
+    <br>
+    <br>
+    <label for="phone number">PHONE NUMBER</label>
+<input type="number" id="phone number" placeholder="Write your contact number">
+<br>
+<br>
+<label for="feedback">FEEDBACK</label>
+<br>
+<br>
+<textarea>Your message here</textarea>
+        
+     
+    </form></center>
+    
+</body>
+</html>
