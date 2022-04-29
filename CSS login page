@@ -1,0 +1,40 @@
+form{
+    height:500px;
+    width:500px;
+    border:solid blue;
+    background-color: white;
+    opacity: 90%;
+    border-radius: 70%;
+}
+button{
+    padding: 10px;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: deeppink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    color: brown;
+    font-family: cursive;
+    font-style: italic;
+}
+form{
+    color: darkgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: bold;
+}
+input{
+    border: solid green;
+    color: blue;
+}
+::placeholder{
+    color: lightseagreen;
+    font-family: cursive;
+}
+button{
+    color: deeppink;
+}
+
