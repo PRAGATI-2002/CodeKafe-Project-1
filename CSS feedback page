@@ -1,0 +1,36 @@
+
+form{
+    border: solid blue;
+    border-radius: 20%;
+    height:430px;
+    width:500px;
+    background-color: white;
+    opacity: 80%;
+    color: green;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-style: italic;
+}
+textarea{
+    height: 100px;
+    width: 200px;
+}
+span{
+    color:deeppink;
+}
+h1{
+    color: blue;
+    font-family: cursive;
+    font-style: bold;
+    
+}
+::placeholder{
+    color: deeppink;
+    font-style: italic;
+}
+input{
+    border: outset purple;
+}
+textarea{
+    border: outset purple;
+    color: deeppink;
+}
