@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>Course page</title>
+</head>
+<body>
+    <link href="Coursepage.css" rel="stylesheet">
+    
+    <header id="header">
+        <div class="cube">
+            <div class="top"></div>  
+            <div>
+                <span style="--i:0;">
+                    <h2>CK</h2>
+                    <h2>CK</h2>
+                </span>
+                <span style="--i:1;">
+                    <h2>CK</h2>
+                    <h2>CK</h2>
+                </span>
+                <span style="--i:2;">
+                    <h2>CK</h2>
+                    <h2>CK</h2>
+                </span>
+                <span style="--i:3;">
+                    <h2>CK</h2>
+                    <h2>CK</h2>
+                </span>
+            </div>
+        </div>
+    
+        <nav class="menu">
+            <ul>
+                <li><a href="#"><span >HOME</span></a></li> 
+                <li><a href="#"><span >ABOUT</span></a></li> 
+                <li><a href="#"><span>COURSES</span></a></li> 
+                <li><a href="signup.html" target="_blank"><span>SIGNUP</span></a></li> 
+                <li><a href="login.html" target="_blank"><span>LOGIN</span></a></li>
+            </ul>
+        </nav> 
+        <!-- <div class="toggle daynight">
+            <ion-icon name="moon-outline"></ion-icon>
+            <ion-icon name="sunny-outline"></ion-icon>
+        </div> -->
+    </header>
+    <h1>
+        
+        <!-- <span class="c1"><</span ><span class="c2">/</span><span class="c1">></span><br> -->
+        " <span class="c1" id="quote">F</span>irst, solve the problem.<br>Then write the <span class="c1" id="quote">C</span>ode."
+    
+    </h1>
+        <div class="hackedcode">
+            <p>Lorem ipsum dolor sit amet,consectetur adipisicing ele Inventore non nobis voluptates    optio</p>   <p>nesciuntmaioresdololaborum labore neque. nesciuntmaioresdololaborum labore neque.<br></p>
+            <p>Lorem ipsum dolor sit amet,consectetur adipisicing ele Inventore non nobis voluptates    optio</p>   <p>nesciuntmaioresdololaborum labore neque. nesciuntmaioresdololaborum labore neque.<br></p>
+            <p>Lorem ipsum dolor sit amet,consectetur adipisicing ele Inventore non nobis voluptates    optio</p>   <p>nesciuntmaioresdololaborum labore neque. nesciuntmaioresdololaborum labore neque.<br></p>
+            <p>Lorem ipsum dolor sit amet,consectetur adipisicing ele Inventore non nobis voluptates    optio</p>   <p>nesciuntmaioresdololaborum labore neque. nesciuntmaioresdololaborum labore neque.<br></p>
+            <p>Lorem ipsum dolor sit amet,consectetur adipisicing ele Inventore non nobis voluptates    optio</p>   <p>nesciuntmaioresdololaborum labore neque. nesciuntmaioresdololaborum labore neque.<br></p>
+            <p>Lorem ipsum dolor sit amet,consectetur adipisicing ele Inventore non nobis voluptates    optio</p>   <p>nesciuntmaioresdololaborum labore neque. nesciuntmaioresdololaborum labore neque.<br></p>
+            <!-- <p>Lorem ipsum dolor sit amet,consectetur adipisicing ele Inventore non nobis voluptates    optio</p>   <p>nesciuntmaioresdololaborum labore neque. nesciuntmaioresdololaborum labore neque.<br></p>  -->
+            <!-- <p>Lorem ipsum dolor sit amet,consectetur adipisicing ele Inventore non nobis voluptates    optio</p>   <p>nesciuntmaioresdololaborum labore neque. nesciuntmaioresdololaborum labore neque.<br></p> -->
+            <!-- <p>Lorem ipsum dolor sit amet,consectetur adipisicing ele Inventore non nobis voluptates    optio</p>   <p>nesciuntmaioresdololaborum labore neque. nesciuntmaioresdololaborum labore neque.<br></p> -->
+            <!-- <p>Lorem ipsum dolor sit amet,consectetur adipisicing ele Inventore non nobis voluptates    optio</p>   <p>nesciuntmaioresdololaborum labore neque. nesciuntmaioresdololaborum labore neque.<br></p> -->
+            <!-- <p>Lorem ipsum dolor sit amet,consectetur adipisicing ele Inventore non nobis voluptates    optio</p>  -->
+           
+            
+        </div>
+<br><br>
+   
+    <!-- Box1 -->
+    <div class="box1">
+        <div class="box1" id="html">
+            <!-- <span class="d">HTML</span> -->
+            <a href="https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg" target="_blank"><br><br>Click here</a>
+            
+        </div>
+
+        <div class="box1" id="css">
+            <!-- <span class="d">CSS</span> -->
+            <a href="https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg" target="_blank"><br><br>Click here</a>
+        </div>
+
+        <!-- <div class="box3" id="js">
+            <!-- <span class="d">JAVASCRIPT</span> -->
+            <!-- <a href="https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg" target="_blank"><br><br>Click here </a>
+        </div> --> 
+    </div><br><br><br>
+    <!-- Box 2 -->
+    <div class="box2">
+        <div class="box2" id="python">
+            <!-- <span class="d">PYTHON</span> -->
+            <a href="https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg" target="_blank"><br><br>Click here</a>
+        </div> 
+
+             <div class="box2" id="xql">
+            <!-- <span class="d">XQL</span> -->
+            <a href="https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg" target="_blank"><br><br>Click here</a>
+        </div>
+
+             <!-- <div class="box2" id="c"> 
+            <!-- <span class="d">C++</span> -->
+            <!-- <a href="https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg" target="_blank"><br><br>Click here</a> --> 
+    </div><br><br><br>
+    <div class="box3">
+        <div class="box3" id="c"> 
+            <!-- <span class="d">C++</span> -->
+            <a href="https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg" target="_blank"><br><br>Click here</a>
+    </div>
+    <div class="box3" id="js">
+        <!-- <span class="d">JAVASCRIPT</span> -->
+        <a href="https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg" target="_blank"><br><br>Click here </a>
+    </div>
+</div>
+<br><br><br><br>
+    <footer>
+            <h2>Contact Us</h2>
+            
+        
+
+        <div class="icons">
+            <div class="feedback">
+                <a href="feedback.html" target="_blank">feedback</a>
+            </div>
+
+            <span class="facebook"><a href="#">f</a></span>
+            <span class="linkedin"><a href='#'>in</a></span>
+            <span>
+                <section class="instagram">
+                    <div class="color"></div>
+                    <div class="color"></div>
+                    <div class="OuterBorder">
+                        <div class="InnerBorder">
+                            <div class="dot"></div>
+                        </div>
+                    </div>
+                </section>
+            </span>    
+            
+        </div>
+        
+    </footer>
+
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script
+</body>
+</html>
